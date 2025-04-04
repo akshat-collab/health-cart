@@ -85,7 +85,7 @@ export default function Footer() {
             </div>
 
             <div className="text-center text-gray-300">
-              <h5 className="font-bold text-xl text-blue-200">Anmol Sharma</h5>
+              <h5 className="font-bold text-xl text-blue-200">Amey Rathore</h5>
               <p className="text-lg font-semibold text-gray-400">Managing Director</p>
               <p className="mt-2">Anmol brings over a decade of experience in the healthcare industry, leading HealthCart with innovation and a focus on customer health needs.</p>
               <div className="flex justify-center space-x-4 mt-4">
@@ -99,7 +99,7 @@ export default function Footer() {
             </div>
 
             <div className="text-center text-gray-300">
-              <h5 className="font-bold text-xl text-blue-200">Adash Kumar</h5>
+              <h5 className="font-bold text-xl text-blue-200">Adarsh Kumar</h5>
               <p className="text-lg font-semibold text-gray-400">Co-Founder</p>
               <p className="mt-2">With a strong background in business strategy, Adash co-founded HealthCart to empower individuals to lead healthier lives through quality wellness products.</p>
               <div className="flex justify-center space-x-4 mt-4">
